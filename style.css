@@ -38,8 +38,9 @@ body{
 }
 
 .Post_image{
+    display: block;
     max-width: 100%;
-    text-align: center;
+    margin: 0px auto;
     border-radius: 10%;
 }
 .post_content{
@@ -58,6 +59,7 @@ body{
 .contacts_list{
     list-style-type: none;
     text-align: center;
+    padding: 0;
 }
 
 .contacts_list li a{
