@@ -17,8 +17,10 @@ body{
 }
 
 .subtitle {
+    font-size: 30px;
     font-style: italic;
     text-align: center;
+    margin: 0;
 }
 
 .post_title {
@@ -36,7 +38,9 @@ body{
 }
 
 .Post_image{
-    width: 100%;
+    max-width: 100%;
+    text-align: center;
+    border-radius: 10%;
 }
 .post_content{
     font-size: 20px;
@@ -47,6 +51,7 @@ body{
 .post_content1{
     list-style-type: none;
     font-size: 18px;
+    padding-inline-start: 0px;
     text-align: center;
 }
 
