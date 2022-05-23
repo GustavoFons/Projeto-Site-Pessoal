@@ -38,9 +38,10 @@ body{
 }
 
 .Post_image{
+
     display: block;
     max-width: 100%;
-    margin: 0px auto;
+    margin: 10px auto;
     border-radius: 10%;
 }
 .post_content{
